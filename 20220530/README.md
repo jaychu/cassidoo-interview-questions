@@ -3,7 +3,7 @@
 Can you do this without making any new variables? You choose if you want to include capitalization in your consideration for this one, as a fun challenge. 
 
 Example:
-
+```
 > allUnique('Cassidy')
 > false
 
@@ -12,3 +12,4 @@ Example:
 
 > allUnique('cat+dog')
 > true
+```

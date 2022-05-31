@@ -1,1 +1,2 @@
-# cassidoo-interview-questions
+# Interview Questions from Cassidy Williams
+Cassidy Williams is a developer who runs a weekly tech newsletter. This repo serves as a submission for all the interview questions asked by her in her newsletter. 
